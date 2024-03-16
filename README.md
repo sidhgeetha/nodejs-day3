@@ -1,4 +1,4 @@
-## Mnetor adn student assigning with DB ##
+## Mentor and student assigning with DB ##
 
  1. Created express server
  2. Connected backend nodejs with db.
